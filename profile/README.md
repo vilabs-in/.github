@@ -1,7 +1,7 @@
 ![logo](https://www.vilabs.in/logo/logo.png)
 
-[![](https://img.shields.io/badge/Estd.-2021-green)](https://www.vilabs.in/about-us/)
-[![](https://img.shields.io/badge/Information_Technology-orange)](https://www.vilabs.in/)
+[![](https://img.shields.io/badge/Estd.-2021-orange)](https://www.vilabs.in/about-us/)
+[![](https://img.shields.io/badge/Information_Technology-blue)](https://www.vilabs.in/)
 [![](https://img.shields.io/badge/LinkedIn-green?style=social&logo=linkedin)](https://www.linkedin.com/company/vilabs-in)
 [![](https://img.shields.io/badge/Facebook-green?style=social&logo=facebook)](https://www.facebook.com/VILabsIndia)
 [![](https://img.shields.io/badge/Youtube-green?style=social&logo=Youtube)](https://www.youtube.com/channel/UC7CmeYzp98kVyp9NlceTmcQ)
