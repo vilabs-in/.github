@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/LinkedIn-green?style=social&logo=linkedin)](https://www.linkedin.com/company/vilabs-in)
 [![](https://img.shields.io/badge/Facebook-green?style=social&logo=facebook)](https://www.facebook.com/VILabsIndia)
 [![](https://img.shields.io/badge/Youtube-green?style=social&logo=Youtube)](https://www.youtube.com/channel/UC7CmeYzp98kVyp9NlceTmcQ)
+[![](https://img.shields.io/badge/Instagram-green?style=social&logo=Instagram)](https://www.instagram.com/vilabs.in/)
 
 ## Hello, Welcome to Vorac Innovation Labs!
 
